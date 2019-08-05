@@ -1,0 +1,27 @@
+{
+  "name": "JXCommonDependency",
+  "version": "0.1.0",
+  "summary": "A short description of JXCommonDependency.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guoyiyuan/JXCommonDependency",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guoyiyuan": "growngyy@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/guoyiyuan/JXCommonDependency.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JXCommonDependency/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

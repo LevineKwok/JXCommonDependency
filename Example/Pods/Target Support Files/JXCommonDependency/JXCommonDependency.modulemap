@@ -1,0 +1,6 @@
+framework module JXCommonDependency {
+  umbrella header "JXCommonDependency-umbrella.h"
+
+  export *
+  module * { export * }
+}
